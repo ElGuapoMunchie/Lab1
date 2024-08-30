@@ -1,4 +1,14 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  text-align:center;
+  border-color: #16b71e;
+  border-style: groove;
+  font-family: 'Times New Roman', Times, serif
+}
+body{
+  font-family: sans-serif;
+  text-align: left;
+  background-color: aliceblue;
+  color: rgb(20, 74, 20);
+  accent-color: black;
+  filter: drop-shadow(10px 10px 8px grey);
 }
