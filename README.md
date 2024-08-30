@@ -4,6 +4,12 @@
 
 This is a basic website template that displays a webpage about QUnit, as well as prints to the console a server side message. It is the general project layout we'll be using for the first half of the semester. 
 
+## Compilation and Running the Program
+
+First, navigate to your local directory where the project files are stored, then simply enter the following into your terminal: 
+
+```$ `Node main.js`
+
 ## Sources and Credits
 
-- Initial Code, main.js, test.js, and index and test html files all provided by instructor.
+- Initial code and starter files all provided by instructor.
