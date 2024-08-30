@@ -2,23 +2,14 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a basic website template that displays a webpage about QUnit, as well as prints to the console a server side message. It is the general project layout we'll be using for the first half of the semester. 
+
+## Compilation and Running the Program
+
+First, navigate to your local directory where the project files are stored, then simply enter the following into your terminal: 
+
+```$ `Node main.js`
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Initial code and starter files all provided by instructor.
