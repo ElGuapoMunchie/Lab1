@@ -12,3 +12,15 @@ body{
   accent-color: black;
   filter: drop-shadow(10px 10px 8px grey);
 }
+
+button {
+  border-radius: 5px;
+  background-color: #0e6344; /* Green */
+  border: none;
+  color: #0e6344;
+  padding: 3px 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

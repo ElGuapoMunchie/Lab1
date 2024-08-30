@@ -12,21 +12,25 @@
 <body>
   <h1>HTML Rocks!</h1>
 
-  <input type="button" onclick="clickEvent();" value="I'm a button!" />
-  <script>
-     function clickEvent() {
-        alert("I'm an alert!");
-     }
-  </script>
-
   <ul><b>
     <li>Mark Muench</li> </b>
     <li>I expect to graduate in <i>Spring 2025</i>.</li>
     <li>I have not had a job or internship doing web dev.</li>
   </ul>
 
+  <p></p>
+  <button>
+    <input type="button" onclick="clickEvent();" value="Wanna see a magic trick?" />
+    <script>
+       function clickEvent() {
+          alert("Ta da!");
+       }
+    </script>
+  </button>
+
+  <p></p>
   <img src="headshot.jpg" width="500">
-  
+
   <script type="module" src="js/main.js"></script>
 
 </body>
