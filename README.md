@@ -8,7 +8,10 @@ This is a basic website template that displays a webpage about QUnit, as well as
 
 First, navigate to your local directory where the project files are stored, then simply enter the following into your terminal: 
 
-```$ `Node main.js`
+`open index.html`
+
+and the website will open in your browser.
+Note: the website itself is not hosted on a server, it will be run directly from the local files.
 
 ## Sources and Credits
 
