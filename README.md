@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a basic website template that displays a webpage about QUnit, as well as prints to the console a server side message. It is the general project layout we'll be using for the first half of the semester. 
+This is a basic website template that displays a webpage about me! It's our first lab of the semester, and is meant to act as a "getting back into it" project to jog our memories about everything web dev. I chose to use a more "foresty green" color palette for the site, and created a button that displays an alert to the user.
 
 ## Compilation and Running the Program
 There are two ways to run this project, first is via the livePreview extension in VSCode, and the second is done via the command line.
